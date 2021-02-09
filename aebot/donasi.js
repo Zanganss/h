@@ -7,6 +7,8 @@ const donasi = (Ig, name) => {
  
   *BOT BY ${name}*
 
+  *Pulsa Telkomsel : 085340827717*
+
 
 
 

@@ -12,8 +12,17 @@ const {
     MessageType,
     Presence,
     Mimetype,
-    GroupSettingChange
-} = require("@adiwajshing/baileys")
+    GroupSettingChange,
+    MessageOptions,
+    WALocationMessage,
+    WA_MESSAGE_STUB_TYPES,
+    ReconnectMode,
+    ProxyAgent,
+    waChatKey,
+    mentionedJid,
+    processTime,
+} = require('@adiwajshing/baileys')
+
 
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 const { fetchJson } = require('./lib/fetcher')

@@ -9,7 +9,7 @@ ${yt}
 ${instagram}
 
 \`\`\`GROUP OFFICIAL\`\`\`
- https://chat.whatsapp.com/F1aEGHydcNqESvVkSlyRBp
+ https://chat.whatsapp.com/BACkgLHfblPDGPCd9ONXoA
 
 \`\`\`HARAP BACA NOTE DIATAS SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
@@ -21,7 +21,7 @@ ${instagram}
    *Limit Kamu : ${limitt}*
 
   🚻 \`\`\`Total Pengguna:\`\`\` *${user.length} User*
-  🏧 \`\`\`Total Donasi:\`\`\` *1%* 🙂
+  🏧 \`\`\`Total Donasi:\`\`\` *0%* 🙂
 
 
                *ABOUT* ${name}

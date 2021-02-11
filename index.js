@@ -73,7 +73,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=6282291992581:+62 822-9199-2581\n'
             + 'END:VCARD'
 
-limitt = '100000'
+limitt = '1000'
 
 function kyun(seconds){
   function pad(s){

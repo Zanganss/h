@@ -20,6 +20,7 @@ return `
 *Jadi masih jarang aktif, dan*
 *Maaf Jika Ada Menu Yang Error*
 *Jika Lama Harap Ulangi Command*
+*Kalo Nambahin Bot Ke Grup Di Banned Jika nggak Nambahin Owner!*
 
 🛂 *Gunakan Command Tanpa [ ]*
 

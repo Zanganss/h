@@ -9,7 +9,7 @@ ${yt}
 ${instagram}
 
 \`\`\`GROUP OFFICIAL\`\`\`
- https://chat.whatsapp.com/F1aEGHydcNqESvVkSlyRBp
+ https://chat.whatsapp.com/BACkgLHfblPDGPCd9ONXoA
 
 \`\`\`HARAP BACA NOTE DIATAS SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
@@ -61,12 +61,12 @@ ${instagram}
 🔰 *${prefix}trigger [reply image]*
 🔰 *${prefix}rip [reply image]*
 🔰 *${prefix}wasted [reply image]*
-🔰 *${prefix}cphlogo [aebot/BOT]*
-🔰 *${prefix}cglitch [aebot/BOT]*
-🔰 *${prefix}cpubg [aebot/BOT]*
-🔰 *${prefix}cml [miya/aebot]*
-🔰 *${prefix}tahta [aebot]*
-🔰 *${prefix}croman [aebot dan BOT]*
+🔰 *${prefix}cphlogo [Zan/Karina]*
+🔰 *${prefix}cglitch [Zan/Karina]*
+🔰 *${prefix}cpubg [Zan/Capek gua]*
+🔰 *${prefix}cml [miya/Zanbotz]*
+🔰 *${prefix}tahta [Zan]*
+🔰 *${prefix}croman [Zan dan BOT]*
 🔰 *${prefix}cthunder [aebot]*
 🔰 *${prefix}cbpink [aebot]*
 🔰 *${prefix}cmwolf [aebot]*

@@ -12,17 +12,8 @@ const {
     MessageType,
     Presence,
     Mimetype,
-    GroupSettingChange,
-    MessageOptions,
-    WALocationMessage,
-    WA_MESSAGE_STUB_TYPES,
-    ReconnectMode,
-    ProxyAgent,
-    waChatKey,
-    mentionedJid,
-    processTime,
-} = require('@adiwajshing/baileys')
-
+    GroupSettingChange
+} = require("@adiwajshing/baileys")
 
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 const { fetchJson } = require('./lib/fetcher')
@@ -68,9 +59,9 @@ const anlink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Zan Gans\n'
-            + 'ORG:Creator ZanBotz;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6282291992581:+62 822-9199-2581\n'
+            + 'FN:AZIZAE\n'
+            + 'ORG:Creator aebot;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6285155441072:+62 851-5544-1072\n'
             + 'END:VCARD'
 
 limitt = '1000'
@@ -154,7 +145,7 @@ async function starts() {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const Zan = ["6282291992581@s.whatsapp.net"]
+			const AzizAE = ["6285155441072@s.whatsapp.net"]
 			const aziz = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
@@ -198,10 +189,10 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"6282291992581@s.whatsapp.net"
+			"6285155441072@s.whatsapp.net"
 			]
 			premium = [
-			"6282291992581@s.whatsapp.net"
+			"6285155441072@s.whatsapp.net"
 			]
 			
 			const apakahh = [
@@ -215,7 +206,7 @@ async function starts() {
             ]
             
             const hob =[
-            'Memasak','Membantu Atok','Mabar','Nobar','Sosmed an','Membantu Orang lain','Nonton Anime','Nonton Drakor','Naik Motor','Nyanyi','Menari','Bertumbuk','Menggambar','Foto fotoan Ga jelas','Maen Game','Berbicara Sendiri'.'Nonton Bokep' 
+            'Memasak','Membantu Atok','Mabar','Nobar','Sosmed an','Membantu Orang lain','Nonton Anime','Nonton Drakor','Naik Motor','Nyanyi','Menari','Bertumbuk','Menggambar','Foto fotoan Ga jelas','Maen Game','Berbicara Sendiri' 
             ]
             const wa =[
             'penyayang','pemurah','Pemarah','Pemaaf','Penurut','Baik','baperan','Baik Hati','penyabar','Uwu','top deh, pokoknya','Suka Membantu' 

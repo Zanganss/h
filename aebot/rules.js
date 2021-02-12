@@ -5,6 +5,7 @@ return `
 ⏰ *JAM* : ${jam} *WIB*
 📅 *TANGGAL* : *${tanggal}*
 🆚 *VERSION* : *6.5.0 TERMUX*
+🆘️ *INSTAGRAM*: *zanganzz_*
 
 📨 ❌ *SPAM*
 📞 ❌ *CALL & VC*
@@ -20,7 +21,7 @@ return `
 *Jadi masih jarang aktif, dan*
 *Maaf Jika Ada Menu Yang Error*
 *Jika Lama Harap Ulangi Command*
-*Kalo Nambahin Bot Ke Grup Di Banned Jika nggak Nambahin Owner!*
+*Kalo Nambahin Bot Ke Grup Jangan Lupa Masukin Owner Owner!*
 
 🛂 *Gunakan Command Tanpa [ ]*
 

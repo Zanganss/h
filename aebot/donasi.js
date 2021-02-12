@@ -8,8 +8,7 @@ const donasi = (Ig, name) => {
   *BOT BY ${name}*
 
   *Pulsa Telkomsel : 085340827717*
-
-
+  *Daftar Premium? Join Group Official Dan Chat Owner!!*
 
 
 Note:

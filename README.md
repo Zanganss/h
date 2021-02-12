@@ -21,6 +21,9 @@ Follow The Steps Below!
 > bash install.sh
 > npm audit fix
 > npm start / node index.js
+
+
+Follow Ig Owner!: @zanganzz_
 ```
 
 

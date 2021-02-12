@@ -59,9 +59,9 @@ const anlink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:ZanBotz\n'
-            + 'ORG:ZanBotz;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6282291992581:+62 822-9199-2581\n'
+            + 'FN:AZIZAE\n'
+            + 'ORG:Creator aebot;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6285155441072:+62 851-5544-1072\n'
             + 'END:VCARD'
 
 limitt = '1000'
@@ -145,8 +145,8 @@ async function starts() {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const AzizAE = ["6282291992581@s.whatsapp.net"]
-			const AzizAE = mek.message.conversation
+			const AzizAE = ["6285155441072@s.whatsapp.net"]
+			const aziz = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
 			pushname2 = client.contacts[nameReq] != undefined ? client.contacts[nameReq].vname || client.contacts[nameReq].notify : undefined
@@ -189,10 +189,10 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"6282291992581@s.whatsapp.net"
+			"6285155441072@s.whatsapp.net"
 			]
 			premium = [
-			"6282291992581@s.whatsapp.net"
+			"6285155441072@s.whatsapp.net"
 			]
 			
 			const apakahh = [

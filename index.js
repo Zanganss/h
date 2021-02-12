@@ -59,8 +59,8 @@ const anlink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:AZIZAE\n'
-            + 'ORG:Creator aebot;\n'
+            + 'FN:Zan Gans\n'
+            + 'ORG:Zant;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6285155441072:+62 851-5544-1072\n'
             + 'END:VCARD'
 
@@ -189,10 +189,10 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"6285155441072@s.whatsapp.net"
+			"6282291992581@s.whatsapp.net"
 			]
 			premium = [
-			"6285155441072@s.whatsapp.net"
+			"6282291992581@s.whatsapp.net"
 			]
 			
 			const apakahh = [

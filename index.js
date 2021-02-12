@@ -145,8 +145,8 @@ async function starts() {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const ZanGans = ["6282291992581@s.whatsapp.net"]
-			const Zan = mek.message.conversation
+			const AzizAE = ["6282291992581@s.whatsapp.net"]
+			const AzizAE = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
 			pushname2 = client.contacts[nameReq] != undefined ? client.contacts[nameReq].vname || client.contacts[nameReq].notify : undefined
